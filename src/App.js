@@ -1,12 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
-import Home from './components/Home'
+import Topbar from './components/topbar/Topbar';
+
 
 function App() {
   return (
     <Router>
       <div className="app">
-        
+        <Topbar/>
       Hello
     </div>
     </Router>
