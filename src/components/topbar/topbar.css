@@ -1,0 +1,23 @@
+.topbar{
+   background-color: black;
+   position:sticky;
+   z-index: 1;
+   display: flex;
+   justify-content: space-around;
+   top: 0;
+   object-fit: contain;
+   padding:20px;
+   width: 100%;
+   opacity: 0.8;
+   color: white;
+}
+
+.topbarLink {
+    text-decoration: none;
+    color: white;
+}
+
+.topbarLink:hover{
+    border-bottom: 5px solid;
+    color: rgb(0, 183, 255);
+}
