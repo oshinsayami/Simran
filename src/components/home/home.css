@@ -1,0 +1,16 @@
+.home{
+    display: flex;
+    background: linear-gradient(90deg, rgba(0, 212, 255, 1) 0%, rgba(91, 94, 94, 1) 0%, rgba(2, 0, 36, 1) 85%);
+    padding: 48px;
+}
+
+.img1{
+    width: 30%;
+    height: 70%;
+    position: relative;
+}
+
+.container{
+    color: cadetblue;
+    padding: 91px;
+}
