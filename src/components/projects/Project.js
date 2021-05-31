@@ -1,10 +1,12 @@
 import React from 'react'
-import "./project.scss"
+import "./project.css"
+import PageHeader from './../pageHeader/PageHeader'
 
 export default function Project() {
     return (
         <div className="project">
-            Project
+            <PageHeader title={'Projects'} />
+
         </div>
     )
 }

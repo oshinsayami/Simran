@@ -8,9 +8,10 @@
     position: relative;
 }
 
-/* .container{
+.intro .container{
     display: flex;
-} */
+    padding: 20px;
+}
 
 .photo{
    display: flex;

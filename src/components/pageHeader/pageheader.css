@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    color: cadetblue;
+    padding: 20px;
+
+}
+
+hr{
+    position: absolute;
+    left: 0;
+    width: 124px;
+    border: 1px solid
+}

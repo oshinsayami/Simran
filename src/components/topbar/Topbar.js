@@ -6,9 +6,9 @@ export default function Topbar() {
     return (
         <div className="topbar">
             <Link className="topbarLink" to="/">Home</Link>
-            <Link className="topbarLink" to="/intro">Intro</Link>
+            <Link className="topbarLink" to="/intro">About Me</Link>
             <Link className="topbarLink" to="/projects">Projects</Link>
-            <Link className="topbarLink" to="/contacts">Contacts</Link>
+            <Link className="topbarLink" to="/contacts">Contact</Link>
         </div>
     )
 }
