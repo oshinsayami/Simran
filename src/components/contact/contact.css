@@ -1,3 +1,18 @@
 .contact{
     background-color: lightblue;
+    height: 300px;
+    display:flex;
+    align-items: center;
+
+}
+
+.contact-items{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+
+}
+
+.contact-items:hover{
+    cursor: pointer;
 }
