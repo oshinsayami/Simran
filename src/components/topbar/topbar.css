@@ -12,12 +12,12 @@
    color: white;
 }
 
-.topbarLink {
+a {
     text-decoration: none;
     color: white;
 }
 
-.topbarLink:hover{
+a:hover{
     border-bottom: 5px solid;
     color: rgb(0, 183, 255);
 }
