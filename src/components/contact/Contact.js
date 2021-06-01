@@ -8,7 +8,7 @@ const handleURL = (url) => {
 
 export default function Contact() {
     return (
-        <div className="contact">
+        <div className="contact" id="contact">
             <div className="contact-items" >
                 <FaYoutube color='white' size='30px' style={{ padding: '1%' }} onClick={handleURL('https://www.youtube.com/channel/UCEC0yt7WB6ZW9_KA8Fm94GQ') } />
                 <FaMediumM color='white' size='30px' style={{ padding: '1%' }} onClick={handleURL('https://mdrsimran.medium.com/') } />

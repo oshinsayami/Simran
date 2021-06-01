@@ -4,7 +4,7 @@ import women from './../../img/women.png'
 
 const Home = () => {
     return (
-        <div className="home">
+        <div className="home" id="home">
         <img className="img1" src={women} alt="img1"></img>
             <div className="container">
                 <h1>Hi!</h1>

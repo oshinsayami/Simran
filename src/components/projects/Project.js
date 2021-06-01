@@ -35,7 +35,7 @@ const petgramDesc = 'A React web app to upload pet images, comment and like fell
 
 const Project=()=> {
     return (
-        <div className="project">
+        <div className="project" id="project">
             <PageHeader title={'Projects'} />
             <div className="project-content">
                 {projectContent("https://www.youtube.com/watch?v=gxFXDpZTbVo&t=59s",petgram, petgramDesc)}
