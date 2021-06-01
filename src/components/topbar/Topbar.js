@@ -6,8 +6,8 @@ export default function Topbar() {
         <div className="topbar">
             <a href="/">Home</a>
             <a href="/#intro">About Me</a>
-            <a href="/#projects">Projects</a>
-            <a href="/#contacts">Contact</a>
+            <a href="/#project">Projects</a>
+            <a href="/#contact">Contact</a>
         </div>
     )
 }
