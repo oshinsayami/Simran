@@ -5,7 +5,7 @@ import me from './../../img/me.jpg'
 
 export default function intro() {
     return (
-        <div className="intro">
+        <div className="intro" id="intro">
             <PageHeader title={'About Me'} />
             <div className="container">
                 <div className="text">
